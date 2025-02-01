@@ -27,7 +27,7 @@ npm run start
 ## API Endpoints
 
 #### Get all payments
-```http
+```bash
   GET /api/payment/get-payments
 ```
 Response:
@@ -42,7 +42,7 @@ Response:
 ]
 ```
 #### Add a Payment
-```http
+```bash
   POST /api/payment/make-payment
 ```
 
